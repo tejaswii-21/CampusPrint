@@ -20,7 +20,7 @@ export default function Logo({ size = 'md', showText = true, light = false }: Lo
       {showText && (
         <div className="flex flex-col leading-none">
           <span className={`font-display font-bold ${textSize} ${light ? 'text-white' : 'text-ink-900'}`}>
-            Campus<span className="text-brand-500">Print</span>
+            Xerofy
           </span>
           <span className={`text-[10px] font-medium tracking-wide uppercase ${light ? 'text-ink-300' : 'text-ink-400'}`}>
             Xerox & Stationery

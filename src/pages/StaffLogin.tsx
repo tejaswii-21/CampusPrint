@@ -66,7 +66,7 @@ export default function StaffLogin() {
               ))}
             </div>
           </div>
-          <p className="mt-8 text-xs text-ink-600">© 2026 CampusPrint. Staff access is restricted to authorized personnel.</p>
+          <p className="mt-8 text-xs text-ink-600">© 2026 Xerofy. Staff access is restricted to authorized personnel.</p>
         </div>
       </div>
 

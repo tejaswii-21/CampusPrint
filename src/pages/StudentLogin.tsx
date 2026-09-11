@@ -89,7 +89,7 @@ export default function StudentLogin() {
               ))}
             </div>
           </div>
-          <p className="mt-8 text-xs text-brand-300">© 2026 CampusPrint. College email required.</p>
+          <p className="mt-8 text-xs text-brand-300">© 2026 Xerofy. College email required.</p>
         </div>
       </div>
 
@@ -290,7 +290,7 @@ export default function StudentLogin() {
           </div>
 
           <p className="mt-6 text-center text-xs text-ink-400">
-            By continuing, you agree to CampusPrint's Terms of Service and Privacy Policy.
+            By continuing, you agree to Xerofy's Terms of Service and Privacy Policy.
           </p>
         </div>
       </div>

@@ -238,10 +238,10 @@ export default function Landing() {
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
           <div className="grid gap-10 lg:grid-cols-2">
             <div>
-              <span className="text-sm font-semibold uppercase tracking-wider text-brand-600">Why CampusPrint</span>
+              <span className="text-sm font-semibold uppercase tracking-wider text-brand-600">Why Xerofy</span>
               <h2 className="mt-2 font-display text-3xl font-bold text-ink-900 sm:text-4xl">Built for campus life</h2>
               <p className="mt-4 text-ink-600">
-                We know how hectic college gets. CampusPrint saves you time standing in queues so you can focus on what matters.
+                We know how hectic college gets. Xerofy saves you time standing in queues so you can focus on what matters.
               </p>
               <div className="mt-8 space-y-5">
                 {features.map((feature, i) => {

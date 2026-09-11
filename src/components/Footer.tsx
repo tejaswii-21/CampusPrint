@@ -69,7 +69,7 @@ export default function Footer() {
         </div>
 
         <div className="mt-12 flex flex-col items-center justify-between gap-4 border-t border-ink-800 pt-6 sm:flex-row">
-          <p className="text-xs text-ink-500">© 2026 CampusPrint. All rights reserved.</p>
+          <p className="text-xs text-ink-500">© 2026 Xerofy. All rights reserved.</p>
           <div className="flex gap-5 text-xs text-ink-500">
             <a href="#" className="hover:text-ink-300 transition-colors">Privacy Policy</a>
             <a href="#" className="hover:text-ink-300 transition-colors">Terms of Service</a>
